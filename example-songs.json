@@ -1,0 +1,7 @@
+[
+  {"title": "Obsesión", "artist": "Aventura", "category": "BACHATA_SLOW", "energy": 2, "weight": 1, "bpm": 124},
+  {"title": "Propuesta Indecente", "artist": "Romeo Santos", "category": "BACHATA_MEDIUM", "energy": 3, "bpm": 130},
+  {"title": "Vivir Mi Vida", "artist": "Marc Anthony", "category": "SALSA_MEDIUM", "energy": 3, "bpm": 195},
+  {"title": "La Vida Es Un Carnaval", "artist": "Celia Cruz", "category": "SALSA_FAST", "energy": 4, "weight": 1.2, "bpm": 210},
+  {"query": "El Cantante Hector Lavoe", "category": "SALSA_MEDIUM", "energy": 3}
+]
